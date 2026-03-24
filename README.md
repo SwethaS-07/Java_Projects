@@ -1,7 +1,5 @@
 # Java_Intership_Projects
 
-# Java Internship Projects
-
 This repository contains all the projects completed during my Java Development Internship.
 
 ## Projects Included
